@@ -2,7 +2,7 @@
 
 Eine vollständig clientseitige Web-App zur Verwaltung von Aufgaben im [todo.txt-Format](http://github.com/todotxt/todo.txt). Kein Backend, keine Datenbank — alle Daten bleiben im Browser.
 
-[Demo Web-App](https://raffa3l.github.io/todo.txt-App/)
+[Live-Demo](https://raffa3l.github.io/todo.txt-App/)
 
 ---
 
