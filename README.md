@@ -1,5 +1,8 @@
 # todo.txt App
 
+[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://raffa3l.github.io/todo.txt-App/)
+
 Eine vollständig clientseitige Web-App zur Verwaltung von Aufgaben im [todo.txt-Format](http://github.com/todotxt/todo.txt). Kein Backend, keine Datenbank — alle Daten bleiben im Browser.
 
 [Live-Demo](https://raffa3l.github.io/todo.txt-App/)
